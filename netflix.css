@@ -1,0 +1,485 @@
+*{
+    padding: 0px;
+    margin: 0%;
+}
+.backwall{
+    background-image: url(netflix.jpg);
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    
+}
+.main-container{
+    width: 100%;
+    height: 90vh;
+    
+    
+}
+
+.title-container{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 163px;
+}
+
+.navbar{
+    padding-left: 56px;
+    padding-right: 75px;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width: 135px;
+    padding-top: 27px;
+}
+.language{
+    border-radius: 2px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    color: aliceblue;
+    background: none;
+    cursor: pointer;
+    border-radius: 2px;
+    margin-right: 15px;
+    margin-left: 790px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-top: 21px;
+    padding-left: 10px;
+}
+.btn-sign-in{
+    font-weight: bold;
+    
+    margin-left: 2px;
+    margin-right: -14px;
+    font-size: medium;
+    font-weight: 100;
+    padding-top: 6px;
+    padding-bottom: 8px;
+    padding-left: 14px;
+    padding-right: 16px;
+    margin-top: 21px;
+    background: red;
+    color: aliceblue;
+    border-radius: 4px;
+    cursor: pointer;
+    width: fit-content;
+    border: none;
+}
+.title{
+    font-size: 49px;
+   padding-left: -8px;
+   margin-right: 0px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sub-title{
+    font-size: 1.625rem;
+    font-weight: normal;
+    padding-top: 19px;
+    font-family: Helvetica,Arial,sans-serif;
+}
+.sub-text{
+    color: aliceblue;
+    font-size: 20px;
+    padding-top: 29px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 1.625rem;
+    font-weight: normal;
+    padding-left: 84px;
+    
+}
+.email-container{
+    width: 47%;
+    
+    margin-left: 300px;
+    height: 57px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 13px;
+    padding-right: 10px;
+   
+}
+.email-container-input{
+    outline: none;
+    border: none;
+    padding: 19px 10px;
+    font-size: 1em;
+   
+
+}
+.btn-getstarted{
+   cursor: pointer;
+   padding: 16px 42px;
+   font-family: Arial, Helvetica, sans-serif;
+   height: fit-content;
+   background-color: red;
+   color: aliceblue;
+   font-size: 1.4em;
+ 
+   border: none;
+   margin-right: -60px;
+}
+.second-main-container{
+    background: rgb(39, 37, 37);
+    width: 100%;
+    height: 508vh;
+
+}
+.sub-second-container{
+    background-color: black;
+    width: 100%;
+    height: 71vh;
+     margin-top: -3280px;
+}
+.tvedited{
+    width: 504px;
+    padding-left: 673px;
+}
+.text{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3.125rem;
+   margin-top: -239px;
+  font-weight: bolder;
+  padding-left: 81px;
+    
+}
+.sub-main-text{
+    color: aliceblue;
+    padding-left: -19px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 1.2rem;
+    padding-bottom: 10px;
+    margin-right: 10px;
+    padding-top: 23px;
+}
+.sub-third-container{
+    background-color: black;
+    width: 100%;
+    height: 71vh;
+    margin-top: 151px;
+}
+.second-text{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3.125rem;
+   margin-top: -325px;
+  font-weight: bolder;
+  padding-left: 615px;
+}
+.second-sub-text{
+    color: aliceblue;
+    padding-left: 634px;
+    padding-top: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 1.625rem;  
+}
+.mobile{
+    width: 500px; 
+    margin-top: -296px;
+}
+.box{
+    background: white;
+}
+.download{
+    position: relative;
+    color:aliceblue;
+    background-color: rgb(0, 0, 0);
+    padding-top: 52px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 75PX;
+    margin-right: 857px; 
+    margin-top: -123px;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: grey;
+   
+    
+    
+}
+.dwnld-text{
+    margin-bottom: 30px;
+    margin-top: -24px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+.boxshot{
+
+    width: 14%;
+  
+}
+.dwnld-image{
+    margin-bottom: -56px;
+}
+.gif-download{
+    width: 20%;
+    margin-top: -83px;
+    margin-bottom: 13px;
+    padding-left: 233px;
+}
+.sub-fourth-container{
+    background-color: black;
+    width: 100%;
+    height: 81vh;
+    margin-top: 80px;
+}
+.mac-device{
+    width: 504px;
+    padding-left: 673px;
+    margin-top: -402px;
+    margin-bottom: 38px;
+}
+.third-text{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3.125rem;
+   margin-top: -328px;
+  font-weight: bolder;
+  padding-left: 83px;
+}
+.sub-third-text{
+    color: aliceblue;
+    padding-left: 88px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 1.625rem;
+    margin-top: 19px;
+}  
+.sub-fifth-container{
+    background-color: black;
+    width: 100%;
+    height: 82vh;
+    margin-top: 184px;
+}
+.fourth-text{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3.125rem;
+   margin-top: -383px;
+  font-weight: bolder;
+  padding-left: 632px;
+}
+.sub-fourth-text{
+    color: aliceblue;
+    padding-left: 634px;
+    padding-top: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 1.625rem;   
+}
+.kids-image{
+    width: 500px; 
+    margin-top: -296px;
+    padding-left: 80px;
+}
+.sub-sixth-container{
+    background-color: black;
+    width: 100%;
+    height: 135vh;
+    margin-top: 89px;
+}
+.fifth-text{
+    font-size: 3.125rem;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-bottom: 0.5rem;
+    margin-top: -813px;
+    padding-left: 291px;
+}
+.faq-list{
+    width: 75%;
+    margin: 2em auto;
+    text-align: center;
+   
+}
+.what-is-netflix{
+    background: #303030;
+    color: aliceblue;
+    width: 86%;
+    padding-top: 67px;
+    margin-top: 16px;
+    font-size: 16px;
+    
+    
+}
+.What-text{
+    padding-left: 10px;
+    padding-right: 600px;
+   margin-top: -45px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: lighter;
+}
+.how-text{
+    padding-left: 10px;
+    padding-right: 428px;
+   margin-top: -46px;
+   font-weight: lighter;
+}
+.where-text{
+    padding-left: 10px;
+    padding-right: 547px;
+   margin-top: -46px;
+   font-weight: lighter;
+}
+.how-do-text{
+    padding-left: 10px;
+    padding-right: 579px;
+   margin-top: -46px;
+   font-weight: lighter;
+}
+.Whatcan-text{
+    padding-left: 10px;
+    padding-right: 450px;
+   margin-top: -46px;
+   font-weight: lighter;
+}
+.good-text{
+    padding-left: 10px;
+    padding-right: 500px;
+   margin-top: -46px;
+   font-weight: lighter;
+}
+.faq-list-item{
+    margin-top: -9px;
+}
+.email-container-2{
+    width: 47%;
+    
+    margin-left: 300px;
+    height: 57px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 181%;
+    padding-right: 10px;
+}
+.email-container-input-2{
+    outline: none;
+    border: none;
+    padding: 19px 10px;
+    font-size: 1em;
+}
+.btn-getstarted-2{
+    cursor: pointer;
+    padding: 16px 42px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: fit-content;
+    background-color: red;
+    color: aliceblue;
+    font-size: 1.4em;
+  
+    border: none;
+    margin-right: -60px;
+}
+.sub-main-text-2{
+    color: aliceblue;
+    padding-left: 327px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 1.2rem;
+    padding-bottom: 10px;
+    margin-right: 10px;
+    padding-top: 34px;
+}
+.last-container{
+    background-color: black;
+    width: 100%;
+    height: 61vh;
+    margin-top: 96px;
+}
+.footer-head{
+    color:#757575;
+    padding-top: 64px;
+    padding-left: 181px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.sub-footer{
+    padding-top: 14px;
+}
+.sub-footer-text{
+    color: #757575;
+
+    padding-top: 31px;
+    padding-left: 181px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+    margin-top: -13px;
+}
+.sub-footer-2{
+    padding-left: 227px;
+    padding-bottom: 10px;
+    margin-top: -149px;
+        list-style: none;
+}
+.sub-footer-3{
+    padding-left: 450px;
+    padding-bottom: 10px;
+    margin-top: -157px;
+        list-style: none;
+}
+.sub-footer-4{
+    padding-left: 678px;
+    padding-bottom: 10px;
+    margin-top: -157px;
+        list-style: none;
+}
+.language-2{
+    border-radius: 2px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    color: aliceblue;
+    background: none;
+    cursor: pointer;
+    border-radius: 2px;
+    margin-right: 15px;
+    margin-left: 181px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-top: 65px;
+    padding-left: 10px;
+}
+.last-text{
+    color:#757575;
+   padding-left: 181px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-top: 20px;
+}
+.plus{
+    
+    font-size: 52px;
+    gap: 10px;
+    position: absolute;
+    color: aliceblue;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+   
+}
+.plus-container{
+    position: absolute;
+    margin-top: 18px;
+    margin-left: 815px;
+}
